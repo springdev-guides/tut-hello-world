@@ -1,0 +1,8 @@
+= 快速编写一个Hello World项目
+rain
+2018-06-05
+
+.概要
+本文介绍如何快速创建一个Spring Boot Web应用，然后编写一个示例页面并运行它。
+
+文章地址：https://springdev.io/guides/tutorials/hello-world/
