@@ -1,8 +1,8 @@
-= ¿ìËÙ±àĞ´Ò»¸öHello WorldÏîÄ¿
+= å¿«é€Ÿç¼–å†™ä¸€ä¸ªHello Worldé¡¹ç›®
 rain
 2018-06-05
 
-.¸ÅÒª
-±¾ÎÄ½éÉÜÈçºÎ¿ìËÙ´´½¨Ò»¸öSpring Boot WebÓ¦ÓÃ£¬È»ºó±àĞ´Ò»¸öÊ¾ÀıÒ³Ãæ²¢ÔËĞĞËü¡£
+.æ¦‚è¦
+æœ¬æ–‡ä»‹ç»å¦‚ä½•å¿«é€Ÿåˆ›å»ºä¸€ä¸ªSpring Boot Webåº”ç”¨ï¼Œç„¶åç¼–å†™ä¸€ä¸ªç¤ºä¾‹é¡µé¢å¹¶è¿è¡Œå®ƒã€‚
 
-ÎÄÕÂµØÖ·£ºhttps://springdev.io/guides/tutorials/hello-world/
+æ–‡ç« åœ°å€ï¼šhttps://springdev.io/guides/tutorials/hello-world/
